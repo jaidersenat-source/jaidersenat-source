@@ -31,30 +31,15 @@
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Sobre mí
-
-<table>
-<tr>
-<td width="50%" valign="top">
 ```javascript
 const jaider = {
-  ubicacion: "Colombia 🇨🇴",
-  rol: "Full Stack Developer",
-  formacion: "Tecnólogo en Análisis " +
-             "y Desarrollo de Software",
-  experiencia: [
-    "Sistemas web empresariales",
-    "Clientes independientes",
-    "Proyectos para el sector público"
-  ],
-  pasion: "Crear soluciones reales " +
-          "con código limpio"
+  ubicacion:   "Colombia 🇨🇴",
+  rol:         "Full Stack Developer",
+  formacion:   "Tecnólogo en Análisis y Desarrollo de Software",
+  experiencia: ["Sistemas web empresariales", "Clientes independientes", "Sector público"],
+  pasion:      "Crear soluciones reales con código limpio"
 };
 ```
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
 
 - 🔥 **Backend sólido** con Laravel & PHP
 - ⚡ **APIs RESTful** bien estructuradas
@@ -64,10 +49,6 @@ const jaider = {
 - 🔐 **Autenticación**, roles y buenas prácticas
 - 📊 **Reportes** en Excel y PDF
 - 🌱 Aprendiendo constantemente
-
-</td>
-</tr>
-</table>
 
 ---
 
