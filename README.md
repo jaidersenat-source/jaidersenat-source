@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaider Gutiérrez
+#  Hi, I'm Jaider Gutiérrez
 
 **Full Stack Developer**
 
@@ -6,14 +6,14 @@ I build scalable web applications using modern technologies.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Backend:** Laravel, PHP, MySQL  
 **Frontend:** React, Next.js, JavaScript, Tailwind  
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - 🔗 [Portfolio](https://my-portfolio-sooty-nine-14.vercel.app)
 - 🔗 [NexTrace](https://github.com/jaidersenat-source/NexTrace)
@@ -21,7 +21,7 @@ I build scalable web applications using modern technologies.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - ✉️ jaidersenat@gmail.com
 - 🌐 Portfolio: https://my-portfolio-sooty-nine-14.vercel.app
